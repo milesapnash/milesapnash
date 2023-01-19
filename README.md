@@ -1,3 +1,3 @@
-👋 Hi, I’m Miles Nash (@milesapnash)
+## 👋 Hi, I’m Miles Nash
 
-I'm currently studying at Imperial College London
+I'm currently studying Computing at Imperial College London
