@@ -1,3 +1,3 @@
 ## 👋 Hi, I’m Miles Nash
 
-I'm currently a Software Engineer at PolyAI
+I'm a Software Engineer at PolyAI
