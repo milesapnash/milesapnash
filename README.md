@@ -2,8 +2,6 @@
 
 Full Stack Engineer at [PolyAI](https://github.com/polyai), based in London.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milesapnash&layout=compact&theme=default)](https://github.com/milesapnash)
-
 ## Projects
 
 | Project | Description |
